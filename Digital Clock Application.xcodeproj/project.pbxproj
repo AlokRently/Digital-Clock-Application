@@ -18,6 +18,9 @@
 		9845CC692C70B0AA0066383B /* Digital_Clock_ApplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9845CC682C70B0AA0066383B /* Digital_Clock_ApplicationTests.m */; };
 		9845CC732C70B0AA0066383B /* Digital_Clock_ApplicationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9845CC722C70B0AA0066383B /* Digital_Clock_ApplicationUITests.m */; };
 		9845CC752C70B0AA0066383B /* Digital_Clock_ApplicationUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9845CC742C70B0AA0066383B /* Digital_Clock_ApplicationUITestsLaunchTests.m */; };
+		9845CC822C70B15C0066383B /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9845CC812C70B15C0066383B /* digital-7.ttf */; };
+		9845CC832C70B15C0066383B /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9845CC812C70B15C0066383B /* digital-7.ttf */; };
+		9845CC842C70B15C0066383B /* digital-7.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9845CC812C70B15C0066383B /* digital-7.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +59,7 @@
 		9845CC6E2C70B0AA0066383B /* Digital Clock ApplicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Digital Clock ApplicationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9845CC722C70B0AA0066383B /* Digital_Clock_ApplicationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Digital_Clock_ApplicationUITests.m; sourceTree = "<group>"; };
 		9845CC742C70B0AA0066383B /* Digital_Clock_ApplicationUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Digital_Clock_ApplicationUITestsLaunchTests.m; sourceTree = "<group>"; };
+		9845CC812C70B15C0066383B /* digital-7.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "digital-7.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +121,7 @@
 				9845CC5A2C70B0AA0066383B /* LaunchScreen.storyboard */,
 				9845CC5D2C70B0AA0066383B /* Info.plist */,
 				9845CC5E2C70B0AA0066383B /* main.m */,
+				9845CC812C70B15C0066383B /* digital-7.ttf */,
 				9845CC552C70B0A90066383B /* Digital_Clock_Application.xcdatamodeld */,
 			);
 			path = "Digital Clock Application";
@@ -245,6 +250,7 @@
 				9845CC5C2C70B0AA0066383B /* LaunchScreen.storyboard in Resources */,
 				9845CC592C70B0AA0066383B /* Assets.xcassets in Resources */,
 				9845CC542C70B0A90066383B /* Main.storyboard in Resources */,
+				9845CC822C70B15C0066383B /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,6 +258,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9845CC832C70B15C0066383B /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +266,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9845CC842C70B15C0066383B /* digital-7.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
